@@ -12,3 +12,4 @@ streamlit run app.py
 <img width="720" height="584" alt="Code_1PGznymiey" src="https://github.com/user-attachments/assets/9d385717-a69a-4fd2-a59e-2eb9ef0db02b" />
 
 Live Steamlet Link = https://chatbot-using-ollama-model-and-app.streamlit.app/
+more view = https://q-a-chatbot-using-ollama-model-and-streamlit∙main∙ollamaChatbot/app.py
